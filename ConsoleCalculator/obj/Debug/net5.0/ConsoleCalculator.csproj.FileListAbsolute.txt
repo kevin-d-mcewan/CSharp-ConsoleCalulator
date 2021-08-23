@@ -1,0 +1,16 @@
+D:\Programming\C_Sharp\ConsoleCalulator\ConsoleCalculator\ConsoleCalculator\bin\Debug\net5.0\ConsoleCalculator.exe
+D:\Programming\C_Sharp\ConsoleCalulator\ConsoleCalculator\ConsoleCalculator\bin\Debug\net5.0\ConsoleCalculator.deps.json
+D:\Programming\C_Sharp\ConsoleCalulator\ConsoleCalculator\ConsoleCalculator\bin\Debug\net5.0\ConsoleCalculator.runtimeconfig.json
+D:\Programming\C_Sharp\ConsoleCalulator\ConsoleCalculator\ConsoleCalculator\bin\Debug\net5.0\ConsoleCalculator.runtimeconfig.dev.json
+D:\Programming\C_Sharp\ConsoleCalulator\ConsoleCalculator\ConsoleCalculator\bin\Debug\net5.0\ConsoleCalculator.dll
+D:\Programming\C_Sharp\ConsoleCalulator\ConsoleCalculator\ConsoleCalculator\bin\Debug\net5.0\ref\ConsoleCalculator.dll
+D:\Programming\C_Sharp\ConsoleCalulator\ConsoleCalculator\ConsoleCalculator\bin\Debug\net5.0\ConsoleCalculator.pdb
+D:\Programming\C_Sharp\ConsoleCalulator\ConsoleCalculator\ConsoleCalculator\obj\Debug\net5.0\ConsoleCalculator.csproj.AssemblyReference.cache
+D:\Programming\C_Sharp\ConsoleCalulator\ConsoleCalculator\ConsoleCalculator\obj\Debug\net5.0\ConsoleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C_Sharp\ConsoleCalulator\ConsoleCalculator\ConsoleCalculator\obj\Debug\net5.0\ConsoleCalculator.AssemblyInfoInputs.cache
+D:\Programming\C_Sharp\ConsoleCalulator\ConsoleCalculator\ConsoleCalculator\obj\Debug\net5.0\ConsoleCalculator.AssemblyInfo.cs
+D:\Programming\C_Sharp\ConsoleCalulator\ConsoleCalculator\ConsoleCalculator\obj\Debug\net5.0\ConsoleCalculator.csproj.CoreCompileInputs.cache
+D:\Programming\C_Sharp\ConsoleCalulator\ConsoleCalculator\ConsoleCalculator\obj\Debug\net5.0\ConsoleCalculator.dll
+D:\Programming\C_Sharp\ConsoleCalulator\ConsoleCalculator\ConsoleCalculator\obj\Debug\net5.0\ref\ConsoleCalculator.dll
+D:\Programming\C_Sharp\ConsoleCalulator\ConsoleCalculator\ConsoleCalculator\obj\Debug\net5.0\ConsoleCalculator.pdb
+D:\Programming\C_Sharp\ConsoleCalulator\ConsoleCalculator\ConsoleCalculator\obj\Debug\net5.0\ConsoleCalculator.genruntimeconfig.cache
